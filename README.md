@@ -1,4 +1,4 @@
-```markdown
+
 # OpenCV Image Processing Basics in Google Colab
 
 This repository contains a collection of Python scripts and interactive notebooks demonstrating fundamental image processing techniques using **OpenCV (Open Source Computer Vision Library)** and **NumPy** inside a Google Colab environment.
